@@ -8,7 +8,7 @@ The implementation is based on [Ali Assaf's Python implementation](http://www.cs
 
 ## Usage example
 
-The following example is taken from the algorithm's [Wikipedia page](https://en.wikipedia.org/wiki/Knuth's_Algorithm_X#Example)
+The following problem is taken from the algorithm's [Wikipedia page](https://en.wikipedia.org/wiki/Knuth's_Algorithm_X#Example), where it is explained in greater detail.
 
 ```javascript
 x = require('./x.js')
