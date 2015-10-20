@@ -1,3 +1,7 @@
+// x.coffee -- JavaScript/CoffeeScript implementation of Knuth's Algorithm X
+// (c) 2015- Felix Henninger & contributors
+// x.coffee is licensed under the MIT license.
+
 var _, filter_constraints, invert_constraints, restore_constraints, solve;
 
 _ = require('lodash');
